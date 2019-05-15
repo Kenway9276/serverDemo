@@ -1,1 +1,3 @@
 # serverDemo
+按照网上教程做的简单服务器，但是更像一个不用框架的web项目。
+主要是继承了BaseHTTPRequestHandler重写了do_Get方法，然后展示HTML文件。
